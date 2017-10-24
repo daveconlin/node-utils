@@ -1,0 +1,22 @@
+{
+  "name": "node-utils",
+  "version": "1.0.0",
+  "description": "## Scan Ensighten",
+  "main": "getReleases.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daveconlin/node-utils.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daveconlin/node-utils/issues"
+  },
+  "homepage": "https://github.com/daveconlin/node-utils#readme",
+  "dependencies": {
+    "jscs": "^3.0.7"
+  }
+}
